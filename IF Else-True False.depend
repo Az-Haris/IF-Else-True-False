@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1641991459 source:c:\users\md alimuzzaman haris\desktop\c programme\if else-true false\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
